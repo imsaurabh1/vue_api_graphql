@@ -1,7 +1,7 @@
 <template>
     <div class="container">
       <h4> Data Visualization - Multi Line Chart</h4>
-      <Bar v-if="loaded" :data="chartData" />    
+      <Bar v-if="loaded" :data="chartData" />
       <div style="width: 1000px;"><canvas id="versions"></canvas></div>
       <br>
       <h4> Data Visualization - Line Chart</h4>

@@ -1,6 +1,6 @@
 # vueapigraphql
 
-## Project setup
+## Project setup | Install Dependencies
 ```
 npm install
 ```
@@ -9,16 +9,18 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Snapshots –##   
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**1. Multi Line Graph** 
+![MLG](/media/MultiLine.png)
+
+**2. Single Line Graph**
+![SLG](/media/SingleLine.png)
+
+**3. API Data**
+![AD](/media/APIdata.png)
+
+**4. Axios Fetch Data with filters**
+![AFD](/media/AxiosDataFetch.png)
