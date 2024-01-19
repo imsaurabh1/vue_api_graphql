@@ -10,13 +10,13 @@ npm install
 npm run serve
 ```
 
-## Snapshots –##   
+## Snapshots   
 
-**1. Multi Line Graph** 
-![MLG](/media/MultiLine.png)
-
-**CHECKOUT**
+**1. Single Line Graph**
 ![SLG](/media/SingleLine.png)
+
+**2. Multi Line Graph** 
+![MLG](/media/MultiLine.png)
 
 **3. API Data**
 ![AD](/media/APIdata.png)
